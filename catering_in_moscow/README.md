@@ -18,4 +18,5 @@
 
 ### Используемый язык: Python
 
-### Используемые библиотеки: pandas,scipy.stats,numpy,datetime,scipy,seaborn,plotly.express
+### Используемые библиотеки: pandas, scipy.stats, numpy, datetime, scipy, seaborn, plotly.express
+## Статус: Проект завершён.
